@@ -54,7 +54,7 @@ This Terraform project sets up an AWS environment with a **VPC**, **public and p
 ### 1️⃣ Clone the Repository
 ```sh
 git clone <repo-url>
-cd terraform-aws-vpc
+cd terraform-ec2
 ```
 Initialize Terraform
 ```bash
